@@ -1,4 +1,4 @@
-= Jenny
+= Jenny (FORK)
 
 Command line Jenkinsfile runner written in groovy. Does not need a Jenkins
 installation to run the Jenkinsfile.
